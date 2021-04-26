@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLucasKafer</string>
+    <string name="text_view_login"> Faça o login</string>
+    <string name="text_botao_login"> LOGIN </string>
+    <string name="text_view_usuarios">Usuários</string>
+    <string name="text_botao_inserir">Usuários</string>
+    <string name="text_botao_listaUsuarios">Lista Usuários</string>
+</resources>
